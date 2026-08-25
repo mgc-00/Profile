@@ -11,7 +11,7 @@ I build practical AI applications with a focus on prompt engineering, retrieval-
 
 - Building portfolio projects in **AI, LLM applications, and software development**
 - Interested in **applied AI, intelligent tutoring systems, and real-world automation**
-- Background in **education and programming**, with a focus on making complex systems useful and accessible
+- Background in **programming, IT, and education**, with a focus on making complex systems useful and accessible
 - Currently developing and refining projects for a professional software/AI portfolio
 
 ---
@@ -24,13 +24,8 @@ I build practical AI applications with a focus on prompt engineering, retrieval-
 
 ### Core skills
 
-- **Languages:** Python, JavaScript, Java, SQL
+- **Languages:** Python, JavaScript, Java, SQL, HTML5, CSS3
 - **AI/ML:** LLM applications, prompt engineering, RAG workflows, embeddings
-- **Tools:** Git, GitHub, VS Code, Chainlit
-- **Other:** UI prototyping, data handling, educational software design
-
----
-
-### Connect
-
-- LinkedIn: [Michael G Currie](https://www.linkedin.com/in/michaelgcurrie/)
+- **Frameworks & Platforms:** Node.js, Flask, Chainlit
+- **Tools:** Git, GitHub, VS Code
+- **Other:** UI prot<span class="ml-2" /><span data-testid="markdown-streaming-circle" class="inline-block w-3 h-3 rounded-full bg-neutral-a12 align-middle mb-[0.1rem]" />
